@@ -58745,14 +58745,14 @@ i.toString
 l=D.acj(n,new F.a39(r),D.a86(q,q,q,20,q,q,q,C.j,q,new V.al(25,25,25,25),new P.D(p),i,new X.cZ(l,C.q),q,q,A.iP(q,q,C.l,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q),q))
 n=l}n=M.eb(q,n,q,q,q,q,q,new V.al(15,15,15,15),q)
 if(r.x)l=U.abW(new S.mN(new P.D(p),t.qU))
-else{l=L.iN("Quizz",q,q,q,q,q,q)
+else{l=L.iN("Quiz",q,q,q,q,q,q)
 i=K.qB(30)
 s=C.ad.h(0,500)
 s.toString
 i=D.acj(l,new F.a3a(r),D.a86(q,q,q,20,q,q,q,C.j,q,new V.al(25,25,25,25),new P.D(p),s,new X.cZ(i,C.q),q,q,A.iP(q,q,C.l,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q),q))
 l=i}l=T.OB(H.c([n,M.eb(q,l,q,q,q,q,q,new V.al(15,15,15,15),q)],h),C.cI,C.kM,C.dt)
-j=Z.agu(q,q,C.l,q,q,q,q,"ZillaSlabHighlight",q,20,q,C.aS,P.an([new Z.cM(C.t,C.c9),new F.dD("dbd546264c0d549b6c3cd17c1acf40b35bbe910885e09b5e2a270aa090b6ee53",71996),new Z.cM(C.aS,C.c9),new F.dD("be3605b5e26a2439fde6293b4159f4c401273e65483cab10505e6c4010523ece",71064)],k,j),q,1.5,q,q,q,q,q,q)
-return new M.uJ(new Q.DG(new E.qt(new T.cX(new V.al(100,15,0,0),o,q),!1,new P.T(1/0,56),q),new P.T(1/0,80),q),M.eb(q,M.eb(q,T.OB(H.c([T.nu(T.adK(H.c([m,l,T.nu(M.eb(q,Z.a_j(r.f,L.BS(q,C.aN,q,q,q,q,C.aN,!0,C.aN,C.aN,q,q,q,q,q,q,q,C.aN,q,!0,q,q,q,q,q,q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),!0,!0,q,q,!0,j,C.oC),q,q,new S.eJ(q,new X.AD(new L.qw("assets/images/iphone-xs.png"),C.ud),q,q,q,q,C.ac),q,q,new V.al(55,0,100,0),q),3)],h),C.cI,C.dt),8)],h),C.cI,C.iv,C.dt),q,q,q,q,q,q,q),new P.D(4294310399),q,q,q,q,new V.al(100,100,100,50),q),q)}}
+j=Z.agu(q,q,C.j,q,q,q,q,"ZillaSlabHighlight",q,20,q,C.aS,P.an([new Z.cM(C.t,C.c9),new F.dD("dbd546264c0d549b6c3cd17c1acf40b35bbe910885e09b5e2a270aa090b6ee53",71996),new Z.cM(C.aS,C.c9),new F.dD("be3605b5e26a2439fde6293b4159f4c401273e65483cab10505e6c4010523ece",71064)],k,j),q,1.5,q,q,q,q,q,q)
+return new M.uJ(new Q.DG(new E.qt(new T.cX(new V.al(100,15,0,0),o,q),!1,new P.T(1/0,56),q),new P.T(1/0,80),q),M.eb(q,M.eb(q,T.OB(H.c([T.nu(T.adK(H.c([m,l,T.nu(M.eb(q,Z.a_j(r.f,L.BS(q,C.aN,q,q,q,q,C.aN,!0,C.aN,C.aN,q,q,q,q,q,q,q,C.aN,q,!0,q,q,q,q,q,q,q,q,q,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q),!0,!0,q,q,!0,j,C.oC),q,q,new S.eJ(q,new X.AD(new L.qw("assets/images/iphone-xs-bg1.png"),C.ud),q,q,q,q,C.ac),q,q,new V.al(55,0,100,0),q),3)],h),C.cI,C.dt),8)],h),C.cI,C.iv,C.dt),q,q,q,q,q,q,q),new P.D(4294310399),q,q,q,q,new V.al(100,100,100,50),q),q)}}
 F.a36.prototype={
 $0:function(){this.a.r=!0},
 $S:2}
